@@ -14,9 +14,9 @@
           "version": "0.1.1",
           "category": "Contributed",
           "url": "https://github.com/raphro42094/Colampboardtrial/blob/master/ColampCS.rar",
-          "archiveFileName": "ColampCS.rar",
-          "checksum": "f80526f142f327fa73ba2a35fcd5f90a",
-          "size": "13523",
+          "archiveFileName": "CoLampCS.zip",
+          "checksum": "c08c96941662488f7abf4e060018f79b",
+          "size": "14280",
           "boards": [
             {
               "name": "netcomcs_colamp_oms"
